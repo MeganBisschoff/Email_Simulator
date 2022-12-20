@@ -132,7 +132,7 @@ _For email, the old postcard rule applies. Nobody else is supposed to read your 
 ***
 &nbsp;
 
-##License
+## License
 
 This project is licensed under the GNU GENERAL PUBLIC LICENSE.
 
